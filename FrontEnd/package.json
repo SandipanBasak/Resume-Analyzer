@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pdf-text-reader": "^5.1.0",
+    "pdfjs-dist": "^4.10.38"
+  }
+}
